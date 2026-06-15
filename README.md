@@ -1,4 +1,5 @@
 # 🚬 Cigarette Defect Detection — YOLOv8 | ITC Limited
+# NOTE THE TRAINING DATASET CANNOT BE SHARED BECAUSE OF THE COMPANY SECURITY ISSUES
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
